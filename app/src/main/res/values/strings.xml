@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Version4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="provincia_prompt">Elija una pregunta</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro_usuario">RegistroUsuario</string>
+    <string name="title_activity_conformula">Conformula</string>
+    <string name="title_activity_sinformula">Sinformula</string>
+    <string name="title_activity_sinformulauno">Sinformulauno</string>
+    <string name="title_activity_sinformulados">Sinformulados</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_formula">Formula</string>
+</resources>
